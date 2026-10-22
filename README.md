@@ -1,20 +1,78 @@
-## Hi, I'm Inzi 👋
+<div align="center">
 
-<h3 align="center"> I mainly make plugins for SCPSL and Discord Bot :)</h3><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ciao%2C+sono+inzi+%F0%9F%91%8B;Frontend+developer;Bot+Discord+%26+web+apps;Sempre+a+costruire+qualcosa" alt="Typing SVG" />
 
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Visite&color=a78bfa&style=flat-square" alt="Profile views" />
 
-- 🔭 I’m currently working on **Atlanta BOT**
+</div>
 
-- 🌱 I’m currently learning **HTML**, **JavaScript**, **PHP**, **C#**, **Java**, **CSS**...
+---
 
-- 📫 You can participate in the Antlanta project by joining the Discord server **Maintenance**
+## 👾 Chi sono
 
+- 🛠️ Costruisco interfacce web e bot Discord
+- 🌱 Sto imparando: architetture scalabili, accessibilità, performance
+- 💬 Parlo italiano e inglese
+- 📫 Contattami: [Discord](https://discord.com/users/YOUR_DISCORD_ID) · [Email](mailto:YOUR_EMAIL)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/765535235261202462)](https://discord.com/users/765535235261202462)
+## 🧰 Stack
 
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-</a> </p>
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB)
+![Discord](https://img.shields.io/badge/Discord_Bots-111?style=for-the-badge&logo=discord&logoColor=5865F2)
+![Tailwind](https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InziDeveloperMode&repo=EXILED&theme=dark" />
+</div>
+
+## 📊 Statistiche
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+
+</div>
+
+## 📈 Attività
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" />
+
+</div>
+
+## 🐍 Contribuzioni
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+## 🏆 Trofei
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+
+</div>
