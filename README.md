@@ -34,10 +34,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pinzis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinzis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=pinzis&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinzis&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" />
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=pinzis&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
